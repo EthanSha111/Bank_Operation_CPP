@@ -33,7 +33,7 @@ Compile the Program: Use your favorite C++ compiler to compile the program. For 
 
 Copy code
 ```bash
-g++ -o BankAccountManager account.cpp main.cpp
+g++ -o BankAccountManager account.cpp main.cpp transaction.cpp
 ```
 
 Run the Program: After compiling, run the program by executing the output binary:
